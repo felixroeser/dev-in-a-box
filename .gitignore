@@ -1,0 +1,6 @@
+config.json
+app/
+.vagrant/
+.DS_Store
+.idea
+*.swp

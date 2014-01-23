@@ -1,0 +1,8 @@
+{
+	"ports": {
+		"rails": 3000,
+		"kestrel": 22133,
+		"redis": 6379,
+		"mysql": 3306
+	}
+}

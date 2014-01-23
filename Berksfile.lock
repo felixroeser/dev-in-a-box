@@ -1,0 +1,97 @@
+{
+  "sources": {
+    "apt": {
+      "locked_version": "1.9.0"
+    },
+    "ark": {
+      "path": "./cookbooks/ark"
+    },
+    "maven": {
+      "locked_version": "0.16.2"
+    },
+    "diab-support": {
+      "path": "./cookbooks/diab-support"
+    },
+    "ruby_build": {
+      "locked_version": "0.8.1",
+      "git": "git@github.com:fnichol/chef-ruby_build.git",
+      "ref": "4d3361995a6953076951693eff1b326ab499fe1e"
+    },
+    "rbenv": {
+      "locked_version": "0.7.3",
+      "git": "git://github.com/fnichol/chef-rbenv.git",
+      "ref": "9afb4e5da2e6212504a12de3bbbd410cd96100f6"
+    },
+    "nodejs": {
+      "locked_version": "1.1.2"
+    },
+    "redisio": {
+      "locked_version": "1.7.0",
+      "git": "git://github.com/brianbianco/redisio.git",
+      "ref": "be95852f73dcc9a8ef48db394044525ca48cfd70"
+    },
+    "memcached": {
+      "locked_version": "1.7.1",
+      "git": "git://github.com/opscode-cookbooks/memcached.git",
+      "ref": "69a3884b6816c673be351ed4f120a495f28314ac"
+    },
+    "mongodb": {
+      "locked_version": "0.14.4",
+      "git": "git://github.com/edelight/chef-mongodb.git",
+      "ref": "2ff8ea56fde319c8c7415ca338e00e7dd9e196c6"
+    },
+    "phantomjs": {
+      "locked_version": "1.0.3",
+      "git": "git@github.com:customink-webops/phantomjs.git",
+      "ref": "b4addead50be13eb898a69c339fd16280f41808b"
+    },
+    "mysql": {
+      "path": "./cookbooks/mysql"
+    },
+    "java": {
+      "path": "./cookbooks/java"
+    },
+    "sqlite-source": {
+      "path": "./cookbooks/sqlite-source"
+    },
+    "coffeescript": {
+      "path": "./cookbooks/coffeescript"
+    },
+    "kestrel": {
+      "path": "./cookbooks/kestrel"
+    },
+    "build-essential": {
+      "locked_version": "1.4.2"
+    },
+    "ulimit": {
+      "locked_version": "0.3.2"
+    },
+    "runit": {
+      "locked_version": "1.5.8"
+    },
+    "yum": {
+      "locked_version": "3.0.4"
+    },
+    "yum-epel": {
+      "locked_version": "0.2.0"
+    },
+    "python": {
+      "locked_version": "1.4.4"
+    },
+    "chocolatey": {
+      "locked_version": "0.0.5"
+    },
+    "powershell": {
+      "locked_version": "2.0.0"
+    },
+    "windows": {
+      "locked_version": "1.12.6"
+    },
+    "chef_handler": {
+      "locked_version": "1.1.4"
+    },
+    "openssl": {
+      "locked_version": "1.1.0"
+    }
+  }
+}

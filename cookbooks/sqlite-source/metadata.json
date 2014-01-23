@@ -1,0 +1,36 @@
+{
+    "recommendations": {
+    },
+    "attributes": {
+    },
+    "maintainer": "Felix",
+    "suggestions": {
+    },
+    "dependencies": {
+    },
+    "maintainer_email": "felix@tout.com",
+    "conflicting": {
+    },
+    "platforms": {
+      "debian": [
+
+      ],
+      "ubuntu": [
+
+      ]
+    },
+    "license": "Apache 2.0",
+    "version": "0.0.1",
+    "providing": {
+    },
+    "recipes": {
+      "sqlite": "Installs sqlite from source"
+    },
+    "replacing": {
+    },
+    "name": "sqlite-source",
+    "description": "Installs sqlite from source",
+    "groupings": {
+    },
+    "long_description": ""
+  }
